@@ -1,0 +1,78 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_2">72dp</dimen>
+    <dimen name="keyline_2_minus_16dp">56dp</dimen>
+
+    <dimen name="spinner_width">200dp</dimen>
+    <dimen name="dropdown_item_height">48dp</dimen>
+
+    <dimen name="tabhostHeight">48dp</dimen>
+    <dimen name="tabSelectorHeight">2dp</dimen>
+    <dimen name="materialTextTab">14sp</dimen>
+
+    <dimen name="badge_text_size">13sp</dimen>
+
+    <!-- Text Sizes -->
+
+    <dimen name="basic13">13sp</dimen>
+    <dimen name="basic14">14sp</dimen>
+    <dimen name="basic15">15sp</dimen>
+    <dimen name="basic16">16sp</dimen>
+    <dimen name="basic17">17sp</dimen>
+    <dimen name="basic18">18sp</dimen>
+    <dimen name="basic19">19sp</dimen>
+    <dimen name="basic20">20sp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="default_padding_top">8dp</dimen>
+    <dimen name="default_padding_bottom">8dp</dimen>
+    <dimen name="inner_padding_left">0dp</dimen>
+    <dimen name="inner_padding_right">0dp</dimen>
+    <dimen name="floating_label_text_size">12sp</dimen>
+    <dimen name="bottom_text_size">12sp</dimen>
+    <dimen name="inner_components_spacing">8dp</dimen>
+    <dimen name="bottom_ellipsis_height">4dp</dimen>
+
+    <dimen name="crop__bar_height">56dp</dimen>
+
+    <dimen name="carbon_1dip">1dp</dimen>
+
+    <dimen name="header_view_start_margin_left">16dp</dimen>
+    <dimen name="header_view_end_margin_left">40dp</dimen>
+    <dimen name="header_view_end_margin_right">14dp</dimen>
+    <dimen name="header_view_start_margin_bottom">14dp</dimen>
+    <dimen name="header_view_start_text_size">32sp</dimen>
+    <dimen name="header_view_end_text_size">18sp</dimen>
+
+    <dimen name="spinner_height">40dp</dimen>
+    <dimen name="spinner_text_size">15sp</dimen>
+    <dimen name="spinner_padding">10dp</dimen>
+
+    <dimen name="sb__horizontal_margin">24dp</dimen>
+    <dimen name="sb__vertical_margin_top">16dp</dimen>
+    <dimen name="sb__vertical_margin_bottom">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="navigation_drawer_max_width">320dp</dimen>
+
+    <dimen name="navigation_drawer_profile_image_size">64dp</dimen>
+    <dimen name="navigation_drawer_item_height">48dp</dimen>
+    <dimen name="navigation_drawer_account_section_default_height">140dp</dimen>
+    <dimen name="navigation_drawer_account_information_height">56dp</dimen>
+    <dimen name="nav_drawer_vertical_keyline_icon_left">16dp</dimen>
+    <dimen name="nav_drawer_vertical_keyline_text_left">56dp</dimen>
+    <dimen name="nav_drawer_vertical_keyline_right">16dp</dimen>
+    <dimen name="nav_drawer_item_row_height">48dp</dimen>
+    <dimen name="nav_drawer_item_row_icon_size">24dp</dimen>
+    <dimen name="nav_drawer_vertical_spacing_listing">8dp</dimen>
+    <dimen name="nav_drawer_vertical_spacing_listing_divider_top">7dp</dimen>
+    <dimen name="nav_drawer_vertical_spacing_listing_divider_bottom">8dp</dimen>
+    <dimen name="nav_drawer_subheader_height">48dp</dimen>
+
+    <dimen name="text_size_14">14sp</dimen>
+</resources>

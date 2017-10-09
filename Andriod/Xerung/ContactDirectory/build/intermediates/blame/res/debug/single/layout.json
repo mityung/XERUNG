@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/dialog_request.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/dialog_request.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/crop__activity_crop.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/crop__activity_crop.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/snippet_item1.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/snippet_item1.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_dashboard.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/group_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/group_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/snippet_item2.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/snippet_item2.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_group_user_profile.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_group_user_profile.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_user_profile.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/phone_country_image.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/phone_country_image.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/dialog_send_request_admin.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/dialog_send_request_admin.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_search_list.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_search_list.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_private_directory_details.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_private_directory_details.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_add_new_member.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_add_new_member.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_profession.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_profession.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_splashscreen.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/custom_action_bar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/custom_action_bar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/shakingbell.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/shakingbell.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/content_show_contacts.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/content_show_contacts.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/contact_list_item_search.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/contact_list_item_search.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/dialog_alert.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/dialog_alert.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/private_group_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/private_group_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_group.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_group.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_profile_view.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_profile_view.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/navigation_drawer_divider.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/navigation_drawer_divider.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_verify_otp.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_verify_otp.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_public_directory.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_public_directory.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/navigation_drawer.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/progresspopup.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/progresspopup.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_received.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/notification_received.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/listheader.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/listheader.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/tool_bar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/tool_bar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/custom_view.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/custom_view.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/crop__layout_done_cancel.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/dialog_notdismiss.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/dialog_notdismiss.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/phone_code_spinner_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/phone_code_spinner_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_signin.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/addtocontact_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/addtocontact_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_search_list_details.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_search_list_details.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_pending_request.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_pending_request.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_city.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_city.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/contact_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/contact_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_group_member.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_group_member.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/dialog_logout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/dialog_logout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/notification_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/searchable_list_dialog.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/searchable_list_dialog.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_update.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_update.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/contacts_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/contacts_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/activity_group_edit.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/activity_group_edit.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_blood_group_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_blood_group_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/group_search_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/group_search_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/addtocontactlist.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/addtocontactlist.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/public_group_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/public_group_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_blood.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_blood.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_create_new_group.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_create_new_group.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/add_prefix_member_list_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/add_prefix_member_list_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/menu_badge.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/menu_badge.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/number_indicator_spinner.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/number_indicator_spinner.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/snackbar.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/snackbar.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_alluser.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_alluser.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/fragment_contact_list.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/fragment_contact_list.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/layout/act_notification.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/layout/act_notification.xml"
+    }
+]

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:app1="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/theme_primary"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/layBack"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/main_hover"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_action_arrow_left" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txtAppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Welcome Back!"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/layUserDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/background_white"
+                    android:orientation="vertical"
+                    android:padding="5dp">
+
+                    <com.example.contactplusgroup.edittext.MaterialEditText
+                        android:id="@+id/edtName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 1234567890"
+                        android:hint="@string/lbl_name"
+                        android:imeOptions="actionNext"
+                        android:inputType="textCapWords"
+                        android:maxLength="40"
+                        android:textCursorDrawable="@drawable/text_cursor_white"
+                        android:textSize="16sp"
+
+                        app:met_baseColor="@color/green"
+                        app:met_floatingLabel="highlight"
+                        app:met_floatingLabelTextColor="@color/grey_800"
+                        app:met_helperTextColor="@color/grey_400"
+                        app:met_primaryColor="@color/green"
+                        app:met_singleLineEllipsis="true"
+                        app:met_textColor="@color/grey_800"
+                        app:met_textColorHint="@color/grey_400"
+                        app:met_underlineColor="@color/grey_400" />
+
+                    <com.example.contactplusgroup.views.MaterialSpinner
+                        android:id="@+id/spEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="false"
+                        android:focusableInTouchMode="false"
+                        android:spinnerMode="dialog"
+                        app1:ms_hint="Select Email"
+                        app:ms_alignLabels="false"
+                        app:ms_baseColor="@color/grey_800"
+                        app:ms_floatingLabelColor="@color/green"
+                        app:ms_highlightColor="@color/grey_400"
+                        app:ms_multiline="false" />
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/background_white"
+                    android:orientation="vertical"
+                    android:padding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/txtvalidateOtp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/validate_otp"
+                            android:textColor="@color/grey_400"
+                            android:textSize="13sp" />
+
+                        <TextView
+                            android:id="@+id/txttimer"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1:45s"
+                            android:textColor="@color/red_1"
+                            android:textSize="13sp" />
+
+                        <Button
+                            android:id="@+id/btnResendOTP"
+                            android:layout_width="45dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/btn_round_corner_green"
+                            android:padding="2dp"
+                            android:text="Resend"
+                            android:textColor="@drawable/btn_text_green"
+                            android:textSize="9sp"
+                            android:visibility="gone" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txtMobile"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableRight="@drawable/ic_action_edit"
+                        android:padding="5dp"
+                        android:text="+918881670074"
+                        android:textColor="@color/grey_800"
+                        android:textSize="18sp" />
+
+                    <com.example.contactplusgroup.edittext.MaterialEditText
+                        android:id="@+id/edtOTP"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:digits="1234567890"
+                        android:hint="@string/otp"
+                        android:imeOptions="actionGo"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        android:textCursorDrawable="@drawable/text_cursor_white"
+                        android:textSize="16sp"
+                        app:met_baseColor="@color/green"
+                        app:met_floatingLabel="highlight"
+                        app:met_floatingLabelTextColor="@color/grey_800"
+                        app:met_helperTextColor="@color/grey_400"
+                        app:met_primaryColor="@color/green"
+                        app:met_singleLineEllipsis="true"
+                        app:met_textColor="@color/grey_800"
+                        app:met_textColorHint="@color/grey_400"
+                        app:met_underlineColor="@color/grey_400" />
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <RelativeLayout
+                android:id="@+id/relAlreadyUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/btn_verify_otp"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/circle"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_action_tick"
+                    android:text="@string/lbl_next" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/layNewUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/btnCreateAccount"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/btn_back_orange"
+                    android:text="@string/create_account"
+                    android:textColor="@drawable/btn_text_orange" />
+
+                <TextView
+                    android:id="@+id/txtTermsCondt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:text="@string/i_agree"
+                    android:textColor="@color/grey_400"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

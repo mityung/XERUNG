@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/animator/scale_with_alpha.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/animator/scale_with_alpha.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/animator/indicator_no_animator.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/animator/indicator_no_animator.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/animator/shake.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/animator/shake.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/animator/indicator_animator.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/animator/indicator_animator.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/animator/indicator_animator_reverse.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/animator/indicator_animator_reverse.xml"
+    }
+]

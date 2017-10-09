@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/countryNameTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/spinner_height"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/spinner_padding"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/phoneCodeTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/spinner_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/spinner_padding"
+        android:textColor="@color/grey_700" />
+
+</RelativeLayout>

@@ -1,0 +1,457 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:2:1-147:12
+	package
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.github.florent37:diagonallayout:1.0.4] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.github.florent37/diagonallayout/1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+		INJECTED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:9:5-13:40
+	android:largeScreens
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:13:9-37
+uses-feature#android.hardware.camera
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:16:9-47
+uses-feature#android.hardware.camera.front
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.location.network
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.wifi
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:28:9-45
+uses-feature#android.hardware.camera.flash
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:31:9-53
+uses-feature#android.hardware.camera.any
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:34:9-51
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:37:5-72
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:37:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:38:22-68
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:39:5-73
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:39:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:40:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:41:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:42:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:42:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:43:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:43:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:44:5-70
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:44:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:45:5-67
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:45:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:46:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:46:22-65
+uses-permission#android.permission.REORDER_TASKS
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:47:5-72
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:47:22-69
+application
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:48:5-145:19
+MERGED from [com.android.support:design:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-core:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:51:9-41
+	android:allowBackup
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:49:9-35
+	android:icon
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:50:9-45
+	android:theme
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:52:9-40
+activity#com.mityung.contactdirectory.SplashScreen
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:53:9-62:20
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:54:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:60:27-74
+activity#com.mityung.contactdirectory.MainDashboard
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:64:13-42
+activity#com.mityung.contactdirectory.UserProfile
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:67:13-40
+service#com.mityung.contactdirectory.MyFirebaseInstanceIDService
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:70:9-74:19
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:70:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:71:13-73:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:72:17-80
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:72:25-77
+service#com.mityung.contactdirectory.MyFirebaseMessagingService
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:75:9-79:19
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:75:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:76:13-78:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:77:17-78
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:77:25-75
+service#com.mityung.contactdirectory.RegistrationIntentService
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:80:9-82:48
+	android:exported
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:81:13-54
+meta-data#com.google.android.gms.version
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:84:9-86:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:86:13-66
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:85:13-58
+activity#com.mityung.contactdirectory.PendingMemberList
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:88:9-90:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:89:13-46
+activity#com.mityung.contactdirectory.AddNewGroup
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:91:9-93:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:92:13-68
+activity#com.example.contactplusgroup.crop.CropImageActivity
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:94:9-96:50
+	android:theme
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:96:13-47
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:95:13-79
+activity#com.mityung.contactdirectory.SignIn
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:98:13-63
+activity#com.mityung.contactdirectory.VerifyOTP
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:100:9-102:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:101:13-66
+activity#com.mityung.contactdirectory.ProfileSetting
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:103:9-105:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:104:13-71
+activity#com.mityung.contactdirectory.GroupView
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:106:9-108:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:107:13-66
+activity#com.mityung.contactdirectory.GroupSettings
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:109:9-111:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:111:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:110:13-70
+activity#com.mityung.contactdirectory.AddNewMembers
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:112:9-114:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:113:13-70
+activity#com.mityung.contactdirectory.Notification
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:115:9-117:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:117:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:116:13-69
+activity#com.mityung.contactdirectory.GroupUserProfile
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:118:9-120:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:119:13-73
+activity#com.mityung.contactdirectory.SearchGroupMember
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:121:9-123:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:122:13-74
+activity#com.mityung.contactdirectory.SearchList
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:124:9-126:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:126:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:125:13-67
+activity#com.mityung.contactdirectory.SearchListView
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:127:9-129:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:129:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:128:13-71
+activity#com.mityung.contactdirectory.AddToContactList
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:130:9-132:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:132:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:131:13-73
+receiver#com.example.contactplusgroup.utils.DetectSms
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:134:9-138:20
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:134:19-78
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:135:13-137:29
+	android:priority
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:135:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:136:17-82
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:136:25-79
+service#com.mityung.contactdirectory.ContactSync
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:139:9-141:48
+	android:exported
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:141:13-37
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:140:13-68
+activity#com.mityung.contactdirectory.AppUpdate
+ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:142:9-144:52
+	android:screenOrientation
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:144:13-49
+	android:name
+		ADDED from /home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/AndroidManifest.xml:143:13-66
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:25:13-82
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:9:13-58

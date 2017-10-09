@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108850862740",
+    "firebase_url": "https://xerung-a834e.firebaseio.com",
+    "project_id": "xerung-a834e",
+    "storage_bucket": "xerung-a834e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108850862740:android:c0550188407cbac2",
+        "android_client_info": {
+          "package_name": "com.mityung.contactdirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108850862740-trc5anhu2ufk71bf8mlsae4n6p1k8hq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNWzrGe1KUDzPn8E6TxkJV92b-XIN6xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

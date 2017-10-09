@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_primary">@color/green_2</color>
+    <color name="theme_primary_dark">@color/green_3</color>
+    <color name="theme_primary_light">@color/green_1</color>
+    <color name="theme_accent_1">#FF4081</color>
+    <color name="theme_accent_2">#fed521</color>
+    <color name="back_light_grey">#C5CAE9</color>
+
+    <dimen name="underline_top_spacing">8dp</dimen>
+    <dimen name="underline_bottom_spacing">4dp</dimen>
+    <dimen name="error_label_spacing">12dp</dimen>
+    <dimen name="floating_label_top_spacing">4dp</dimen>
+    <dimen name="floating_label_bottom_spacing">8dp</dimen>
+    <dimen name="floating_label_inside_spacing">12dp</dimen>
+    <dimen name="right_left_spinner_padding">8dp</dimen>
+    <color name="text_hint_color">#80CBC4</color>
+
+    <dimen name="label_text_size">12sp</dimen>
+
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+
+    <color name="light_backround">#CFD8DC</color>
+
+    <color name="highlight">#f3f3f3</color>
+
+    <color name="teal_500">#009688</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="thumbColor">#66aaaaaa</color>
+    <color name="black">#000000</color>
+    <color name="orange_500">#FF5722</color>
+    <color name="orange_900">#BF360C</color>
+
+    <!-- Grey -->
+
+    <color name="grey_700">#616161</color>
+    <color name="new_grey_100">#F5F5F5</color>
+    <color name="grey_800">#424242</color>
+    <color name="red_500">#F44336</color>
+
+    <color name="sb__snack_bkgnd">#323232</color>
+    <color name="sb__snack_alert_bkgnd">#ffff4444</color>
+    <color name="sb__transparent">#00000000</color>
+    <color name="sb__dim_white">#FFFFFF</color>
+    <color name="sb__button_text_color">#FB6541</color>
+    <color name="theme_primary_dark_badge">#0e5856</color>
+
+    <color name="green_1">#6fd482</color>
+    <color name="green_2">#32c24d</color>
+    <color name="green_3">#238735</color>
+
+    <color name="red_1">#e74c3c</color>
+    <color name="red_2">#c0392b</color>
+
+    <!-- App Main Palette -->
+    <color name="primary">@color/green_2</color>
+    <color name="primaryDark">@color/green_3</color>
+    <color name="textPrimary">@color/text_white_text_icons_100</color>
+
+    <!-- Text -->
+    <!-- Text -->
+    <color name="text_black_100">#000000</color>
+    <color name="text_black_text_87">#DE000000</color>
+    <color name="text_black_secondary_icon_54">#8A000000</color>
+    <color name="text_black_disable_hint_26">#42000000</color>
+    <color name="text_black_divider_12">#1F000000</color>
+
+    <color name="text_white_text_icons_100">#FFFFFF</color>
+    <color name="text_white_secondary_70">#B3FFFFFF</color>
+    <color name="text_white_disabled_hint_30">#4DFFFFFF</color>
+    <color name="text_white_divider_12">#1FFFFFFF</color>
+
+    <!-- NavigationDrawer -->
+    <color name="navigation_drawer_background">#ddffffff</color>
+    <color name="nav_drawer_item_icon_normal">@color/grey_600</color>
+    <color name="nav_drawer_item_icon_selected">@color/green_500</color>
+    <color name="nav_drawer_item_text_selected">@color/green_500</color>
+    <color name="nav_drawer_section_subheader">@color/text_black_secondary_icon_54</color>
+    <color name="nav_drawer_inset_foreground">#4000</color>
+
+    <color name="nav_drawer_row_item_unselected">@android:color/transparent</color>
+    <color name="nav_drawer_row_item_selected">@color/grey_200</color>
+    <color name="nav_drawer_row_item_pressed">@color/grey_400</color>
+
+    <!-- Green -->
+    <color name="green_500">#4caf50</color>
+
+    <color name="green_700">#388e3c</color>
+
+    <!-- Grey -->
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="grey_600">#757575</color>
+
+    <!-- Blue -->
+    <color name="blue_500">#2196f3</color>
+
+    <!-- Amber -->
+    <color name="amber_500">#ffc107</color>
+
+    <!-- Black and White -->
+    <color name="white">#FFFFFF</color>
+    <color name="black_alpha_50">#80000000</color>
+
+    <color name="disabled_color">#44000000</color>
+    <color name="error_color">#E7492E</color>
+
+</resources>

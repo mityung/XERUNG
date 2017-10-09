@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><!--Bottom bar menu by roughike--><!--https://github.com/roughike/BottomBar-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--Every item for another tab-->
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:enabled="true"
+        android:icon="@drawable/ic_contacts_white_24dp"
+        android:title="Contacts"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottomBarItemSecond"
+        android:enabled="true"
+        android:icon="@drawable/ic_private_white_24dp"
+        android:title="Private Directory"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottomBarItemThird"
+        android:enabled="true"
+        android:icon="@drawable/ic_public_white_24dp"
+        android:title="Public Directory"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/animator/indicator_no_animator.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/animator/indicator_no_animator.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/animator/shake.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/animator/shake.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/animator/indicator_animator.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/animator/indicator_animator.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/animator/scale_with_alpha.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/animator/scale_with_alpha.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/animator/indicator_animator_reverse.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/animator/indicator_animator_reverse.xml"
+    }
+]

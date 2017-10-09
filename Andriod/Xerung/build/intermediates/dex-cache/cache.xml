@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/panther/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/support-annotations-25.1.0_55749a17a1c7a9fea22cd364c352d04ea42dc373.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_39d620318700571e8a424dcaafad6c20bcdbb2a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_13768bfe9fa7e7499de262cd56bc5970a5777f65/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.0.2_447c960c32e9281107207d984e135c99e34565ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.0.2_61e1733e4e2b5cae453b0e8bbebcd7cd29a86e7b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_29c2af38eed75c441c1b1abff90c58ce8e670313/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/kenburnsview-1.0.7_d9c1f3c3204000a9919c5f38f7578b1359baa051.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_da78836687c3665e8e0f00fff2e55cd1fcffa430/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.0_1f50c6947c02dfbf8433a96070c953542776bd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_19e907b68d27777d4cbc184bbc782efd36b4ce32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/commons-codec-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/commons-codec-1.2_f44222c1ad0b5e7c1260e40b00a283a2b40fe8da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_e6daa1f80f3fe1de07c55041d335d580812ef9a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_d750ae0a2b7bb60c05bdd90a510ba9f3e8c3dce4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_dff4cfb7bcac11b8ba1a0742eda9770f25d8be42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_bb6e0b4ae7e7b383136f3fa545657b718e1f321f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_b9ee117f2f0a6fe7cec06aaf8bfc3a41c1c09e0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.0.2_51987335b9d3dcc802715e9ebeadeb2c43b4250d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/libphonenumber-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5882a8e1326a4eca13417c40122a9fdb220ed26b">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/libphonenumber-7.0.1_f58cf2801af145343243534ec24f96cc256ee75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-9.0.2_9835983720b0462ba672631e440f14fd34f70463.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_f798d78a07111a6a654b337fe617fd2af7424511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_cc24a84c08188ae5f4545295d8cf3610d895eb1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_55d4a71b3533b502ff1b3133cb6d69f0c753e51a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.0.2_fc9219678e2e3ee4afaa28aa743ccc020b399078.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd79393d9f7b772de74a746d9af8af8306c1ba0d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1f707218026901b1c7d0c15189e8c8201a4fac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.github.florent37/diagonallayout/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff31092fe499e69bf8e6608e4b88e8c20382e8a">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.github.florent37-diagonallayout-1.0.4_30aed19c7cb75fe4defffce589deb5db96601a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.0.2_e52b8619c85957303dcfc66abde48d0f94883e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/volley_ea675be4cbfa9dc8f1f944cf4e3dc6155af38f73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_89167077ad889f6169c700517ce2c3a1fc9fd21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_857bb96f2ae490f7b03f386ed0f457baa34cd94a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/androidsvg-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b8e2b5de0473fdac58cbfb4bc1ef751b09125c4">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/androidsvg-1.2.0_80e96ecc22cf3391d4b35e91930da37471c3f464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/QAroid_base64.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe1fd671ea06e22691cdfc5318ea4c27b622f2e2">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/QAroid_base64_9819bd355949e115844e040f9139a45927519db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/nineoldandroids-2.4.0_39d620318700571e8a424dcaafad6c20bcdbb2a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_55749a17a1c7a9fea22cd364c352d04ea42dc373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516b04619d8b92e7e3f1335de675786a1cdaac1d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e73a6ccc5a3ad2011a5a543d9f2a0f4f30741be/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-design-25.1.0_13768bfe9fa7e7499de262cd56bc5970a5777f65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_447c960c32e9281107207d984e135c99e34565ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_61e1733e4e2b5cae453b0e8bbebcd7cd29a86e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_da78836687c3665e8e0f00fff2e55cd1fcffa430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.0_29c2af38eed75c441c1b1abff90c58ce8e670313.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.7_d9c1f3c3204000a9919c5f38f7578b1359baa051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/commons-codec-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.2_f44222c1ad0b5e7c1260e40b00a283a2b40fe8da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_b9ee117f2f0a6fe7cec06aaf8bfc3a41c1c09e0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_d750ae0a2b7bb60c05bdd90a510ba9f3e8c3dce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_e6daa1f80f3fe1de07c55041d335d580812ef9a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_1f50c6947c02dfbf8433a96070c953542776bd72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.0_dff4cfb7bcac11b8ba1a0742eda9770f25d8be42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/libphonenumber-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5882a8e1326a4eca13417c40122a9fdb220ed26b">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/libphonenumber-7.0.1_f58cf2801af145343243534ec24f96cc256ee75e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_bb6e0b4ae7e7b383136f3fa545657b718e1f321f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_51987335b9d3dcc802715e9ebeadeb2c43b4250d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_19e907b68d27777d4cbc184bbc782efd36b4ce32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_9835983720b0462ba672631e440f14fd34f70463/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_cc24a84c08188ae5f4545295d8cf3610d895eb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.0.2_f798d78a07111a6a654b337fe617fd2af7424511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_55d4a71b3533b502ff1b3133cb6d69f0c753e51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.0.2_89167077ad889f6169c700517ce2c3a1fc9fd21b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_e52b8619c85957303dcfc66abde48d0f94883e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_fc9219678e2e3ee4afaa28aa743ccc020b399078/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/QAroid_base64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe1fd671ea06e22691cdfc5318ea4c27b622f2e2">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/QAroid_base64_9819bd355949e115844e040f9139a45927519db6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.github.florent37/diagonallayout/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff31092fe499e69bf8e6608e4b88e8c20382e8a">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-diagonallayout-1.0.4_30aed19c7cb75fe4defffce589deb5db96601a35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_857bb96f2ae490f7b03f386ed0f457baa34cd94a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/androidsvg-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b8e2b5de0473fdac58cbfb4bc1ef751b09125c4">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/pre-dexed/release/androidsvg-1.2.0_80e96ecc22cf3391d4b35e91930da37471c3f464.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/panther/PROJECT/OFC/CallIndex1/Xerung/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/2/volley_ea675be4cbfa9dc8f1f944cf4e3dc6155af38f73/classes.dex" />
+    </item>
+
+</items>

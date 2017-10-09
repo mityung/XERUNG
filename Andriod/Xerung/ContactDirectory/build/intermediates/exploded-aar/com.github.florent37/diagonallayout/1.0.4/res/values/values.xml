@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DiagonalLayout"><attr format="integer" name="diagonal_angle"/><attr format="boolean" name="diagonal_handleMargins"/><attr format="enum" name="diagonal_position">
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="bottom" value="4"/>
+            <enum name="top" value="8"/>
+        </attr><attr format="enum" name="diagonal_direction">
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr></declare-styleable>
+    <string name="app_name">library</string>
+</resources>

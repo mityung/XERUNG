@@ -1,0 +1,7 @@
+#Thu Mar 30 18:27:48 IST 2017
+base.0=/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d48f21b74ba7884ff86a736e1e5351f82a8d7130
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f13c20b174683d0af2007ca16531285be74ee0/classes.dex
+base.1=/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f13c20b174683d0af2007ca16531285be74ee0
+file.0=/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d48f21b74ba7884ff86a736e1e5351f82a8d7130/classes.dex

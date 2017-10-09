@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_home_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_home_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_search_large.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_search_large.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_blood_green.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_blood_green.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_search_grey.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_search_grey.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/crop__divider.9.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/crop__divider.9.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_tick_48.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_tick_48.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/sprite_check.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/sprite_check.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_group_large.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_group_large.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/float_button1_shadowp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/float_button1_shadowp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_search_black.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_search_black.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_network_prblm_large.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_network_prblm_large.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_address.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_address.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_add.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/next_item_32x32.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/next_item_32x32.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_private_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_private_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_city_green.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_city_green.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_arrow_left.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_arrow_left.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_notification_large.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_notification_large.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/right_arrow.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/right_arrow.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_blood_grey.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_blood_grey.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_all_green.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_all_green.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/crop__ic_done.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/crop__ic_done.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_phone.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_phone.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/dialog_background.9.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/dialog_background.9.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/left_arrow.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/left_arrow.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_account_circle_white_64dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_account_circle_white_64dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/crop__ic_cancel.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/crop__ic_cancel.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_company.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_company.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_profession_green.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_profession_green.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_contacts_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_contacts_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/float_button_shadow1.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/float_button_shadow1.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_public_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_public_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_delete_user.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_delete_user.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_search_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/met_ic_clear.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/met_ic_clear.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_add_user.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_add_user.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_arrow_left_black.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_arrow_left_black.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_notifications_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/generated/res/pngs/release/drawable-xhdpi/ic_notifications_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/crop__tile.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/crop__tile.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_no_internett_connection.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_no_internett_connection.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_create_group_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_create_group_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_no.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/generated/res/pngs/release/drawable-xhdpi/ic_no.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_city_grey.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_city_grey.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_group_square_white_64dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_group_square_white_64dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_profession_grey.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_profession_grey.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_sync_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_sync_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_email.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_email.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_group_circle_white_64dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_group_circle_white_64dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_logout_white_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_logout_white_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_all_grey.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/drawable-xhdpi/ic_action_all_grey.png"
+    }
+]

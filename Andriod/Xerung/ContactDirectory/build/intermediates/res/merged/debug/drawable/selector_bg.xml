@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item android:drawable="@drawable/cust_btnbg_aria_down" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/act_name_edit_bg"></item>-->
+</selector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallIndex1.iml" filepath="$PROJECT_DIR$/CallIndex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xerung/Xerung.iml" filepath="$PROJECT_DIR$/Xerung/Xerung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidui/androidui.iml" filepath="$PROJECT_DIR$/androidui/androidui.iml" />
+    </modules>
+  </component>
+</project>

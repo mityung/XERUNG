@@ -1,0 +1,7 @@
+#Fri Mar 31 16:07:17 IST 2017
+base.0=/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1f707218026901b1c7d0c15189e8c8201a4fac1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e73a6ccc5a3ad2011a5a543d9f2a0f4f30741be/classes.dex
+base.1=/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e73a6ccc5a3ad2011a5a543d9f2a0f4f30741be
+file.0=/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1f707218026901b1c7d0c15189e8c8201a4fac1/classes.dex

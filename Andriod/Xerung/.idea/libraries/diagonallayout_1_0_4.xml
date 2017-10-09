@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="diagonallayout-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Xerung/build/intermediates/exploded-aar/com.github.florent37/diagonallayout/1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/Xerung/build/intermediates/exploded-aar/com.github.florent37/diagonallayout/1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/diagonallayout/1.0.4/5fc91c4e15ee9ff4cfb05140eab952a69a4476e1/diagonallayout-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="23619094198478"
+    token="-856213342805234455"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1421" />
+    <task
+        name="instant-run-dex"
+        duration="832" />
+    <task
+        name="instant-run-transform"
+        duration="154" />
+    <task
+        name="verifier"
+        duration="34" />
+
+    <artifact
+        location="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="23379285103615"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/outputs/apk/Xerung-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="23619094198478"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_checkbox_filled.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_checkbox_filled.svg"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_radiobutton_filled.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_radiobutton_filled.svg"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/countries.json",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/countries.json"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_radiobutton_unchecked.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_radiobutton_unchecked.svg"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_checkbox_unchecked.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_checkbox_unchecked.svg"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_radiobutton_checked.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_radiobutton_checked.svg"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/debug/raw/carbon_checkbox_checked.svg",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/raw/carbon_checkbox_checked.svg"
+    }
+]

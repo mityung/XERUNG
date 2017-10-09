@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/nav_drawer_row_icon.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/nav_drawer_row_icon.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/sb__button_text_color_green.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/sb__button_text_color_green.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/sb__button_text_color_yellow.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/sb__button_text_color_yellow.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/nav_drawer_item_main_text.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/nav_drawer_item_main_text.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/sb__button_text_color_red.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/sb__button_text_color_red.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/sb__default_button_text_color.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/sb__default_button_text_color.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/nav_item_color_state.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/nav_item_color_state.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/build/intermediates/res/merged/debug/color/tab_selector.xml",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/ContactDirectory/src/main/res/color/tab_selector.xml"
+    }
+]

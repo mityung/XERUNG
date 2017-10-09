@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/drawable-ldpi/sprite_check.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/src/main/res/drawable-ldpi/sprite_check.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/drawable-ldpi/ic_notifications_24dp.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/generated/res/pngs/release/drawable-ldpi/ic_notifications_24dp.png"
+    },
+    {
+        "merged": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/intermediates/res/merged/release/drawable-ldpi/ic_no.png",
+        "source": "/home/panther/PROJECT/OFC/CallIndex1/Xerung/build/generated/res/pngs/release/drawable-ldpi/ic_no.png"
+    }
+]

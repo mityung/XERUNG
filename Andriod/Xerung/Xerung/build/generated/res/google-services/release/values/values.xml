@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">108850862740-trc5anhu2ufk71bf8mlsae4n6p1k8hq1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://xerung-a834e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">108850862740</string>
+    <string name="google_api_key" translatable="false">AIzaSyDlNWzrGe1KUDzPn8E6TxkJV92b-XIN6xk</string>
+    <string name="google_app_id" translatable="false">1:108850862740:android:c0550188407cbac2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlNWzrGe1KUDzPn8E6TxkJV92b-XIN6xk</string>
+    <string name="google_storage_bucket" translatable="false">xerung-a834e.appspot.com</string>
+</resources>
