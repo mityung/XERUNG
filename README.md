@@ -16,6 +16,6 @@ Search added members in directory by their profession.
 Java 7
 mysql
 Tomcat
-Andriod Studio
+Android Studio
 Swift 3.0
 
