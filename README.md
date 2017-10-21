@@ -13,9 +13,5 @@ Search added members in directory by their profession.
 
 # Technology
 
-Java 7
-mysql
-Tomcat
-Android Studio
-Swift 3.0
+Java 7, mysql, Tomcat, Android Studio, Swift 3.0
 
